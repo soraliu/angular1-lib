@@ -1,0 +1,30 @@
+{
+  "name": "angular-boilerplate",
+  "description": "angular1.x boilerplate",
+  "main": "main.js",
+  "authors": [
+    "liuxin"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular1.x",
+    "bower",
+    "gulp"
+  ],
+  "homepage": "https://github.com/lovesora/angular-boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/public",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "2.3.5",
+    "require-css": "0.1.10",
+    "angular": "1.4.6",
+    "angular-require": "1.3.0",
+    "angular-ui-router": "1.0.3"
+  }
+}

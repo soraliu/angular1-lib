@@ -57,3 +57,15 @@ typings/
 # dotenv environment variables file
 .env
 
+# bower
+dist
+
+# sourcemap
+src/**/*.map
+src/**/*.css
+
+# sass
+.sass-cache
+
+# vscode
+.vscode
